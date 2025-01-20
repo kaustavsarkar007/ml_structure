@@ -1,7 +1,8 @@
 # log all excecutions
 import logging
 import os
-import datetime
+from datetime import datetime
+
 
 
 
